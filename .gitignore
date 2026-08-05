@@ -1,3 +1,6 @@
 .DS_Store
 Thumbs.db
 *.log
+
+# Sensitive credentials — never commit
+docs/credentials.md
