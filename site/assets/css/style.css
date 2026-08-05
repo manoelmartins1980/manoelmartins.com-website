@@ -483,6 +483,7 @@ a:hover{ text-decoration: underline; }
 .vendor-badge--cisco{ background: #049fd9; }
 .vendor-badge--fortinet{ background: #ee3124; }
 .vendor-badge--lpi{ background: #f7b500; }
+.vendor-badge--redhat{ background: #ee0000; }
 .vendor-badge--microsoft{
   background:
     linear-gradient(to bottom right, #f25022 49%, transparent 50%) top left / 50% 50% no-repeat,
